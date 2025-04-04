@@ -7,4 +7,8 @@ c=74
 def multi():
     print(a*b*c)
 
-multi
+multi()
+
+def mostrar():
+    print("MAMAMAMAM")
+mostrar()
