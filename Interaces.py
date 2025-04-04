@@ -7,6 +7,14 @@ c=74
 def multi():
     print(a*b*c)
 
+
+multi
+
+def imprime():
+    print("Mumumumum")
+
+imprime()
+
 multi()
 
 def mostrar():
